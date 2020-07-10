@@ -8,6 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style = {styles.title}>Name: Gabby Gonzalez</Text>
       <Text>William Bogans 🌴</Text>
+      <Text>Janina Alvarez 🥳</Text>
       <StatusBar style="auto" />
       <ButtonBackground text = 'Add Contact +' />
       <br/>
